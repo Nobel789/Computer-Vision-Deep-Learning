@@ -24,3 +24,5 @@ Callbacks: Implemented Early Stopping and Model Checkpointing to save the best m
 Frameworks: PyTorch, Ultralytics (YOLO), TensorFlow/Keras.
 
 Libraries: torchvision, facenet-pytorch, PIL.
+
+Text-to-Video: Implemented CogVideoX using the diffusers library to generate short video clips from natural language prompts, demonstrating state-of-the-art Generative AI capabilities.
